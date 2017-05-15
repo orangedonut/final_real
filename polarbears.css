@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css?family=Pacifico");
+
+body {
+  background: gray;
+}
+
+svg {
+  background: url("http://iceberg.kiwad.com/wp-content/uploads/2016/02/ice_management.jpg")
+;
+  display: block;
+  margin: auto;
+}
+
+h3{
+   font-family:Pacifico;
+  text-align:center;
+  color:orange;
+}
+p{
+  text-align:center;
+  color:red;
+}
+button{
+   display: block;
+  margin: auto;
+  margin-top: 15px;
+}
